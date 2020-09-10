@@ -24,5 +24,3 @@ public class Main {
         }
     }              // av Gustav och Cuneyt
 }
-
-// Tjenare GUSTAV!!! :D
