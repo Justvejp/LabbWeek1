@@ -1,2 +1,4 @@
 # Labbweek1
-FizzBuzz/n Gustav och Cuneyt
+FizzBuzz
+av
+Gustav och Cuneyt
